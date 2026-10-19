@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MODELO = "gemini-3.6-flash"
+MODELO = "gemini-3.5-flash"
 
 
 def armar_peticion(pregunta):
