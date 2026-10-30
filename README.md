@@ -1,3 +1,9 @@
+> **⚠️ Este repositorio quedó congelado en el Bloque 7.**
+> Todas las entregas del curso, del Bloque 1 al Gate 2 (incluidos los Bloques 8 a 32 y los Gates 1 y 2), están en el repositorio definitivo:
+> **https://github.com/EnzoGatica/asistente-pymes-ia**
+>
+> Ahí hay un commit por bloque; por ejemplo, la decisión de arquitectura del Bloque 9 está en `docs/decision-arquitectura.md` y las entregas de los Gates están en los commits `entrega Gate 1: habilitación técnica` y `entrega Gate 2: integracion y orquestacion`.
+
 # Plantilla de repositorio base — Especialización en Desarrollo con IA Generativa (Accenture)
 
 Esta es la estructura base que vas a usar como punto de partida para tu proyecto en este programa. Es la misma estructura que vas a ir ampliando bloque a bloque, hasta llegar a la aplicación completa que entregas en el Gate 3.
